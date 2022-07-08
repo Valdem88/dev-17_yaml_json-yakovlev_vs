@@ -264,7 +264,7 @@ site_dict== {'drive.google.com': ['142.250.150.194'], 'mail.google.com': ['64.23
   ]
 ```
 
-#### yml-файл(ы), который(е) записал ваш скрипт:
+#### yml-файл(ы), который(е) записал мой скрипт:
 
 ```bash
 [root@Git-SentOS-8 ~]# cat servers_ip.yaml
